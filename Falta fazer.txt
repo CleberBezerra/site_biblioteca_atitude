@@ -1,0 +1,6 @@
+Falta fazer:
+-> index: Acesso(estudantes e ADM), Resultado, pesquisa e cadastro.
+-> acessar: código.
+-> conectar: melhorar.
+-> cadastrar: melhorar.
+-> pesquisar: falta código.
